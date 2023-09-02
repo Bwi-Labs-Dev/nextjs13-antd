@@ -1,0 +1,7 @@
+!---- Aplikasi ini masih dalam research mengenai env ----!
+1. Ref docker next js :
+ blog : https://raphaelpralat.medium.com/system-environment-variables-in-next-js-with-docker-1f0754e04cde
+ github : https://github.com/factorim/next-with-system-env/tree/main
+
+2. Fixing issue dari situs csdn.net
+ url : https://devpress.csdn.net/cloudnative/62f319d77e66823466186213.html
